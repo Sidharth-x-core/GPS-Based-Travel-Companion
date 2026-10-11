@@ -1,0 +1,20 @@
+# Build outputs
+build/
+.build/
+.pio/
+*.hex
+*.elf
+*.eep
+*.map
+*.bin
+
+# Arduino IDE generated files
+*.ino.d
+
+# Editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
